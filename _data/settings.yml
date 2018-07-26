@@ -9,7 +9,7 @@ custom_links:
 client:
   name: Ray Meyer
   title:
-  license_number:
+  license_number: DRE#01927550
   about_markdown: |
     As a Real Estate Team lead by a U.S. Army Combat Veteran, our agents knows what it means to serve. Our team believes in providing World-Class service by World Class agents. Every agent and member of the Ray Meyer Group takes pride in being your local real estate experts. At the Ray Meyer Group, there's a lot of passion for what we do, and we enjoy doing it at a high level.
 
@@ -18,12 +18,12 @@ client:
   brand: RMG Real Estate
   brokerage: eXp Realty
   address: '2600 Ventura Street #104<br>Fresno, CA, 93721'
-  phone: 559-825-1855
+  phone: 559-644-0404
   phone_type:
   phone2:
   phone2_type:
   email: info@RMGRealtors.com
-  url: https://559properties.com
+  url: https://rmgrealtors.com
 
 CTAs:
   first_CTA_text: Home Valuation
