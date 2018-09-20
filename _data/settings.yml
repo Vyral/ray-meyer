@@ -23,7 +23,7 @@ client:
   phone2:
   phone2_type:
   email: info@RMGRealtors.com
-  url: https://RMGrealtors.com
+  url: http://RMGrealtors.com
 
 CTAs:
   first_CTA_text: Home Valuation
