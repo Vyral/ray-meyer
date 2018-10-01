@@ -26,7 +26,7 @@ What is the first step someone should take on the path to purchasing a home?
 
 **Before doing anything else, buyers should set their sights on their finances**. Knowing what financial options are available is essential. Therefore, finding the right lender will also be key.
 
-Our team has a number of preferred lending partners who we would be happy to recommend to you when we sit down to begin strategizing your home search. Also during that meeting, we will nail down the specific criteria you’re looking for in a home.
+Our team has a number of preferred lending partners we would be happy to recommend to you when we sit down to begin strategizing your home search. Also during that meeting, we will nail down the specific criteria you’re looking for in a home.
 
 {% include pullquote.html %}
 
