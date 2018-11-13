@@ -25,7 +25,7 @@ What steps do you need to take when you decide to sell a home? Here’s our list
 
 **2. Talk to them about your situation.** Whether you’re looking to upsize, downsize, or you’re a first-time seller, talk specifics with your trusted Realtor and ask about the services they provide.
 
-**3. Request a free home value estimate.** Any good Realtor will offer one of these. They can put together data from public records and give you a value range, but if you really want to pinpoint your home’s value, you need to schedule a time for them to take a closer look at your home and its condition in order to assess it’s true value. There are plenty of different things about your home that can affect its value that won’t show up online.
+**3. Request a free home value estimate.** Any good Realtor will offer one of these. They can put together data from public records and give you a value range, but if you really want to pinpoint your home’s value, you need to schedule a time for them to take a closer look at your home and its condition in order to assess it’s true value. There are plenty of different things about your home that can affect it's value that won’t show up online.
 
 **4. Generate a sale price.** Once the Realtor has all of the above information, they should be able to generate a sale price for you. Then they’ll be able to give you information on your closing costs, commission fees, and how much you’ll end up with in your pocket at the end of the day.
 
